@@ -3,8 +3,6 @@ A Tower of Hanoi game which allows you to choose the number of "cheeses" and "st
 
 This is the classic Tower of Hanoi puzzle, but with a few additions to it. This game can be played with a GUI.
 
-![alt text](https://github.com/dchiu1998/Tower-of-Hanoi/blob/master/pictures/TOH_3x3.png)
-
 There is a counter which counts the number of moves which have been made.
 
 ![alt text](https://github.com/dchiu1998/Tower-of-Hanoi/blob/master/pictures/TOH_play.png)
